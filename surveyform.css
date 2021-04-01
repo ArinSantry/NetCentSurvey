@@ -1,0 +1,15 @@
+/*Arin Santry*/
+#index
+{
+	background-color: orange;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+
+#header
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
